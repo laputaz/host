@@ -1,3 +1,3 @@
-10.97.72.118 security-sh.djicorp.com
-10.97.72.118 security-fac.djicorp.com
-10.97.72.118 security-sz.djicorp.com
+# 10.97.72.118 security-sh.djicorp.com
+# 10.97.72.118 security-fac.djicorp.com
+# 10.97.72.118 security-sz.djicorp.com
